@@ -1,0 +1,24 @@
+{
+  "name": "angular5-coursera",
+  "version": "1.0.0",
+  "description": "This is to learn angular 5",
+  "main": "index.html",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shweta-chogale/Angular5.git"
+  },
+  "author": "Shweta Chogale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shweta-chogale/Angular5/issues"
+  },
+  "homepage": "https://github.com/shweta-chogale/Angular5#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
